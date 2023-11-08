@@ -1,0 +1,26 @@
+body{
+    background: rgb(255, 227, 116);
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+.links{
+    text-align: center;
+}
+
+.links a{
+    margin: 0 10px;
+    color: red;
+}
+
+img{
+    max-width: 25%;
+    max-height: 25%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
